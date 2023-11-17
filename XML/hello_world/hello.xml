@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Module specificationVersion="2.0">
+    <ModulePrefs title="Hello World" height="200">
+        <Require feature="com.ibm.rdm.rm.api" />
+    </ModulePrefs>
+    <Content type="html" href="hello.html" />
+</Module>
